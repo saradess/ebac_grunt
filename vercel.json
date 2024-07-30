@@ -1,5 +1,5 @@
 {
 
-    "rewrites": [{ "source": "/(.*)", "destination": "/main.html" }]
+    "rewrites": [{ "src": "/(.*)", "destination": "dist/index.html" }]
    
    }
